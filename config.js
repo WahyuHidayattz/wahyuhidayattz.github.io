@@ -32,7 +32,7 @@ let portfolio = [
         "title": "Benux",
         "year": "2018",
         "desc": "Is an android application for learning about the linux operating system (linux handbook).",
-        "link": "https://play.google.com/store/apps/details?id=com.wahyuapps.benux&hl=en&gl=US&pli=1"
+        "link": "https://apkcombo.app/id/benux/com.wahyuapps.benux/"
     },
     {
         "image": "ngimel.png",
